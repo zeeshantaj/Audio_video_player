@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/drawable/audio_f_f.xml" value="0.3769230769230769" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/drawable/audio_f_r.xml" value="0.3769230769230769" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/drawable/ic_baseline_forward_10_24.xml" value="0.3828125" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/drawable/loop.xml" value="0.3769230769230769" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/drawable/loop_off.xml" value="0.3769230769230769" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/drawable/ls_back.xml" value="0.3769230769230769" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/drawable/next.xml" value="0.3769230769230769" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/drawable/pause.xml" value="0.3769230769230769" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/drawable/pause_for_video.xml" value="0.3769230769230769" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/drawable/play.xml" value="0.3769230769230769" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/drawable/play_arrao.xml" value="0.3769230769230769" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/drawable/play_arrow.xml" value="0.3769230769230769" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/drawable/previous.xml" value="0.3769230769230769" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/drawable/replay.xml" value="0.3828125" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/drawable/seekbar_thumb.xml" value="0.3769230769230769" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/drawable/tab_gradient.xml" value="0.3828125" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/drawable/tab_layout_gradient.xml" value="0.3769230769230769" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/drawable/video_play_arraow.xml" value="0.3769230769230769" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/layout/action_bar.xml" value="0.36666666666666664" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/layout/activity_player_acitvity.xml" value="0.36666666666666664" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/layout/activity_video_player.xml" value="0.36666666666666664" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/layout/fragment_audio.xml" value="0.36666666666666664" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/layout/fragment_video.xml" value="0.36666666666666664" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/layout/list_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/layout/player_action_bar.xml" value="0.36666666666666664" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/layout/video_control.xml" value="0.36666666666666664" />
+        <entry key="..\:/AudioVideoPlayerForYVideo/app/src/main/res/layout/view_list_view.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
